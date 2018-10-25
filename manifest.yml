@@ -2,4 +2,4 @@
 applications:
   - name: hello-bluemix234234
     buildpack: java_buildpack
-    path: build/libs/hello-dev4cloud-0.1.0.jar
+    path: build/libs/spring-boot-0.1.0.jar

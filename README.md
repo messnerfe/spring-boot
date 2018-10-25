@@ -25,7 +25,7 @@ kubectl apply -f Service.yml
 
 To get the public IP of the node call
 ```
-bx cs workers <clustername>
+ibmcloud cs workers <clustername>
 ```
 
 ```
